@@ -1,0 +1,11 @@
+bin/
+obj/
+.dotnet-home/
+.vs/
+.vscode/
+*.user
+*.suo
+*.db
+*.db-shm
+*.db-wal
+appsettings.Local.json
